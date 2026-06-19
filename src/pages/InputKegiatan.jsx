@@ -7,7 +7,7 @@ import { supabase } from "../lib/supabase";
 const STATUS_OPTIONS = [
   { value: "belum_selesai", label: "Belum Selesai" },
   { value: "selesai",       label: "Selesai" },
-  { value: "terlambat",     label: "Terlambat" },
+  //{ value: "terlambat",     label: "Terlambat" },
 ];
 
 const PRIORITY_VARIABLES = [
