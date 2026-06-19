@@ -163,7 +163,7 @@ export default function InputKegiatan() {
                 name="judul"
                 type="text"
                 className="ik-input"
-                placeholder="Contoh: Monitoring Wilayah Terpadu"
+                placeholder="Masukkan nama tugas kamu"
                 value={form.judul}
                 onChange={handleFieldChange}
                 maxLength={200}
